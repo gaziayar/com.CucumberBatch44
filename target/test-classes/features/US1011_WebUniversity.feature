@@ -1,5 +1,6 @@
-@WebU
+
 Feature: US1011 WebUniversity Window Handle
+  @WebU
   Scenario Outline: TC16 Reusable Methods ile window Handle Testi
 
     Given kullanici "WebUniversityUrl" sayfasina gider
